@@ -16,11 +16,11 @@ feature_text: |
             </td>
             <td>
                 <!--右侧内容-->
-                邱沛慈 (Pei-Tz Chiu)<br>   
-             MBA Student<br>
-             Graduate Institute of Information Management<br>
-             National Taipei University<br>
-             New Taipei City, Taiwan   
+                <br>邱沛慈 (Pei-Tz Chiu)<br>   
+             <br>MBA Student<br>
+             <br>Graduate Institute of Information Management<br>
+             <br>National Taipei University<br>
+             <br>New Taipei City, Taiwan   
             </td>
         </tr>
     </table>
