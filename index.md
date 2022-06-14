@@ -49,11 +49,11 @@ Scrum
 
 ### Publications   
 **IMNTPU at the NTCIR-16 FinNum-3 Task:   
-Data Augmentation for Financial Numclaim Classification**
+Data Augmentation for Financial Numclaim Classification**   
 NTCIR 16 Conference · Jun 14, 2022   
 Abstract: This paper provides a detailed description of IMNTPU team at the NTCIR-16 FinNum-3 shared task in formal financial documents. We proposed the use of the XLM-RoBERTa-based model with two different approaches on data augmentation to perform the binary classification task in FinNum-3. The first run (i.e., IMNTPU-1) is our baseline through the fine-tuning of the XLM-RoBERTa without data augmentation. However, we assume that presenting different data augmentations may improve the task performance because of the imbalance in the dataset. Accordingly, we presented double redaction and translation methods on data augmentation in the second (IMNTPU-2) and third (IMNTPU-3) runs, respectively. The best macro-F1 scores obtained by our team in the Chinese and English datasets are 93.18% and 89.86%, respectively. The major contribution of this study provides a new understanding of data augmentation approach for the imbalanced dataset, which may help reduce the imbalanced situation in the Chinese and English datasets.
 
 ### Projects   
 **Contest | NTCIR16 FinNum3**   
-Dec 2021 - Jun 2022
+Dec 2021 - Jun 2022   
 This competition conducts a fine-grained analysis of numbers in professional financial documents (law-speaking conferences or financial analysis books), and uses binary classification to subdivide whether the numbers in the sentence are numbers analyzed by experts for professional financial documents, and use Macro F1-score to evaluate model performance. We won first (93.18%) and third (89.86%) in Chinese and English datasets respectively. In addition, a conference paper was published at the NTCIR-16 Conference entitled "IMNTPU at the NTCIR-16 FinNum-3 Task: Data Augmentation for Financial Numclaim Classification".
