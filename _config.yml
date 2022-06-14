@@ -24,7 +24,7 @@ plugins:
 url: 'https://mydomain.com'
 baseurl: ''
 title: 'Home'
-description: 'Yvette's Website'
+description: "Yvette's Website"
 permalink: pretty
 # logo: "https://"
 
