@@ -36,10 +36,12 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Chinese
-  url: /chinese/
+
 - title: Contact
   url: /contact/
+  
+- title: Chinese
+  url: /chinese/
 # - title: Blog
 #   url: /blog/
 
