@@ -14,7 +14,7 @@ feature_text: |
 >   5. [出版](#publications)
 >   6. [專案](#projects)
 
-### 學歷    
+### 學歷 <a name="education"></a>      
 **國立臺北大學**   
 碩士, 資訊管理研究所
 Sep 2021 - Jun 2023
@@ -23,7 +23,7 @@ Sep 2021 - Jun 2023
 學士, 食品安全學系  
 Sep 2017 - Jun 2021
 
-### 經歷   
+### 經歷 <a name="experience"></a>     
 **實習生**   
 DeepWave · 實習生   
 Jul 2022 - Present   
@@ -41,11 +41,11 @@ Jul 2020 - Aug 2020
 台灣 新北市板橋區   
 實習單位：食品藥物管理科   
 
-### 證照   
+### 證照 <a name="licenses&certifications"></a>     
 **Amazon Web Services Cloud Practitioner**   
 Issued Feb 2022 · Expires Feb 2025   
 
-### 技能   
+### 技能 <a name="skills"></a>   
 雲端運算 Cloud Computing  
 雲端平台 Amazon Web Services (AWS)    
 機器學習 Machine Learning    
@@ -56,7 +56,7 @@ Python
 MySQL    
 敏捷開發 Scrum
 
-### 出版   
+### 出版 <a name="publications"></a>   
 **IMNTPU at the NTCIR-16 FinNum-3 Task:   
 Data Augmentation for Financial Numclaim Classification**   
 NTCIR 16 Conference · Jun 14, 2022   
@@ -66,7 +66,7 @@ NTCIR 16 Conference · Jun 14, 2022
 <a href="https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/08-NTCIR16-FINNUM-TengY.pdf" target="_blank">[Pdf]</a>
 <a href="" target="_blank">[Poster]</a>   
 
-### 專案   
+### 專案 <a name="projects"></a>   
 **競賽 | NTCIR-16 FinNum-3**   
 Dec 2021 - Jun 2022   
 此競賽針對專業財務文件 (法說會或財務分析書) 中的數字進行細粒度分析，並利用二元分類細分出句子中的數字是否為專家對於專業財務文件分析出的數字，並用 Macro F1-score 來評估模型績效。並於中文及英文資料集分別得到第一 (93.18%) 及第三名 (89.86%)。此外，亦於 NTCIR-16 Conference 發表了研討會論文，題目為：IMNTPU at the NTCIR-16 FinNum-3 Task: Data Augmentation for Financial Numclaim Classification.
