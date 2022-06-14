@@ -26,7 +26,7 @@ baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://drive.google.com/file/d/1GcpBC4rpF8PI2UQvFH7B_CtT2KhTyGb_/view?usp=sharing"
+# logo: "https://"
 
 # Pagination
 paginate: 5
@@ -36,10 +36,10 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+# - title: About
+#   url: /about/
+# - title: Blog
+#   url: /blog/
 
 # Footer nav
 navigation_footer:
