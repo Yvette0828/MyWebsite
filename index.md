@@ -12,7 +12,7 @@ Sep 2021 - Jun 2023
 
 **Taipei Medical University**   
 Bachelor of Science - BS, School of Food Safety   
-Sep 2017 - Jun 2021Sep 2017 - Jun 2021
+Sep 2017 - Jun 2021
 
 ### Experience   
 **Intern**   
