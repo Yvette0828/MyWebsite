@@ -10,7 +10,8 @@ feature_text: |
         <tr>
             <td>
                 <!--左侧内容-->
-                ![image](https://drive.google.com/drive/u/0/folders/1516vdw2xHc8Adna6tOawmDrQj3M8OHMF)
+             <img src="https://drive.google.com/drive/u/0/folders/1516vdw2xHc8Adna6tOawmDrQj3M8OHMF">
+<!--               width="15" height="15" -->
             </td>
             <td>
                 <!--右侧内容-->
