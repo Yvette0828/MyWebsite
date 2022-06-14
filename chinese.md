@@ -58,7 +58,7 @@ MySQL
 敏捷開發 Scrum
 
 ### 出版 <a name="publications"></a>   
-**IMNTPU at the NTCIR-16 FinNum-3 Task:   
+**IMNTPU at the NTCIR-16 FinNum-3 Task: <a name="FinNum3"></a>   
 Data Augmentation for Financial Numclaim Classification**   
 NTCIR 16 Conference · Jun 14, 2022   
 **Abstract**: This paper provides a detailed description of IMNTPU team at the NTCIR-16 FinNum-3 shared task in formal financial documents. We proposed the use of the XLM-RoBERTa-based model with two different approaches on data augmentation to perform the binary classification task in FinNum-3. The first run (i.e., IMNTPU-1) is our baseline through the fine-tuning of the XLM-RoBERTa without data augmentation. However, we assume that presenting different data augmentations may improve the task performance because of the imbalance in the dataset. Accordingly, we presented double redaction and translation methods on data augmentation in the second (IMNTPU-2) and third (IMNTPU-3) runs, respectively. The best macro-F1 scores obtained by our team in the Chinese and English datasets are 93.18% and 89.86%, respectively. The major contribution of this study provides a new understanding of data augmentation approach for the imbalanced dataset, which may help reduce the imbalanced situation in the Chinese and English datasets.   
@@ -70,4 +70,4 @@ NTCIR 16 Conference · Jun 14, 2022
 ### 專案 <a name="projects"></a>   
 **競賽 | NTCIR-16 FinNum-3**   
 Dec 2021 - Jun 2022   
-此競賽針對專業財務文件 (法說會或財務分析書) 中的數字進行細粒度分析，並利用二元分類細分出句子中的數字是否為專家對於專業財務文件分析出的數字，並用 Macro F1-score 來評估模型績效。並於中文及英文資料集分別得到第一 (93.18%) 及第三名 (89.86%)。此外，亦於 NTCIR-16 Conference 發表了研討會論文，題目為：IMNTPU at the NTCIR-16 FinNum-3 Task: Data Augmentation for Financial Numclaim Classification.
+此競賽針對專業財務文件 (法說會或財務分析書) 中的數字進行細粒度分析，並利用二元分類細分出句子中的數字是否為專家對於專業財務文件分析出的數字，並用 Macro F1-score 來評估模型績效。並於中文及英文資料集分別得到第一 (93.18%) 及第三名 (89.86%)。此外，亦於 NTCIR-16 Conference 發表了研討會論文，題目為：[IMNTPU at the NTCIR-16 FinNum-3 Task: Data Augmentation for Financial Numclaim Classification](#FinNum3).
