@@ -10,15 +10,15 @@ feature_text: |
         <tr>
             <td>
                 <!--左侧内容-->
-                左侧
+                ![image](https://drive.google.com/drive/u/0/folders/1516vdw2xHc8Adna6tOawmDrQj3M8OHMF)
             </td>
             <td>
                 <!--右侧内容-->
                 邱沛慈 (Pei-Tz Chiu)   
-                MBA Student   
-                Graduate Institute of Information Management   
-                National Taipei University   
-                New Taipei City, Taiwan   
+             MBA Student   
+             Graduate Institute of Information Management   
+             National Taipei University   
+             New Taipei City, Taiwan   
             </td>
         </tr>
     </table>
