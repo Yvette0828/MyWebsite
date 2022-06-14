@@ -1,8 +1,8 @@
 ---
-title: Welcome to my website
+title: Welcome to Yvette's website
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Welcome to Yvette's website
+  ## hello world
 ---
 
 There isn't much going on here yet, but watch this space
