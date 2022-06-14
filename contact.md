@@ -10,7 +10,7 @@ feature_text: |
         <tr>
             <td>
                 <!--左侧内容-->
-             <img src="https://i.imgur.com/hvJ6f1j.jpg" width="150">
+             <img src="https://i.imgur.com/hvJ6f1j.jpg" width="120">
             </td>
             <td>
                 <!--右侧内容-->
