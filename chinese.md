@@ -16,6 +16,7 @@ feature_text: |
 >   6. [專案](#projects) -->
 
 [學歷](#education) | [經歷](#experience) | [證照](#licenses&certifications) | [技能](#skills) | [出版](#publications) | [專案](#projects)
+
 ---
 
 ### 學歷 <a name="education"></a>      
