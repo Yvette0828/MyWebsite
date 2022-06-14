@@ -8,8 +8,10 @@ feature_text: |
 ### Table of contents
 1. [Education](#education)
 2. [Experience](#experience)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+3. [Licenses & Certifications](#license&certifications)
+4. [Skills](#skills)
+5. [Publications](#publications)
+6. [Projects](#projects)
 
 ### Education <a name="education"></a>    
 **National Taipei University**   
@@ -38,11 +40,11 @@ Jul 2020 - Aug 2020
 Banqiao District, New Taipei City, Taiwan   
 Intern at Food and Drug Administration, Department of Health, New Taipei City Government   
 
-### Licenses & Certifications   
+### Licenses & Certifications <a name="licenses&certifications"></a>   
 **Amazon Web Services Cloud Practitioner**   
 Issued Feb 2022 · Expires Feb 2025   
 
-### Skills   
+### Skills <a name="skills"></a>   
 Cloud Computing  
 Amazon Web Services (AWS)    
 Machine Learning    
@@ -53,7 +55,7 @@ Python
 MySQL    
 Scrum
 
-### Publications   
+### Publications <a name="publications"></a>   
 **IMNTPU at the NTCIR-16 FinNum-3 Task:   
 Data Augmentation for Financial Numclaim Classification**   
 NTCIR 16 Conference · Jun 14, 2022   
@@ -61,7 +63,7 @@ NTCIR 16 Conference · Jun 14, 2022
 <img src="https://user-images.githubusercontent.com/82231499/173595390-937d8a24-0c1a-4865-a78b-171547e8ea7f.png" width="15" height="15"> 
 [[Pdf]](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/08-NTCIR16-FINNUM-TengY.pdf)[[Poster]]()
 
-### Projects   
+### Projects <a name="projects"></a>   
 **Contest | NTCIR16 FinNum3**   
 Dec 2021 - Jun 2022   
 This competition conducts a fine-grained analysis of numbers in professional financial documents (law-speaking conferences or financial analysis books), and uses binary classification to subdivide whether the numbers in the sentence are numbers analyzed by experts for professional financial documents, and use Macro F1-score to evaluate model performance. We won first (93.18%) and third (89.86%) in Chinese and English datasets respectively. In addition, a conference paper was published at the NTCIR-16 Conference entitled "IMNTPU at the NTCIR-16 FinNum-3 Task: Data Augmentation for Financial Numclaim Classification".
