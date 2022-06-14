@@ -10,7 +10,7 @@ feature_text: |
         <tr>
             <td>
                 <!--左侧内容-->
-             <img src="https://i.imgur.com/hvJ6f1j.jpg" width="100">
+             <img src="https://i.imgur.com/hvJ6f1j.jpg" height="100">
             </td>
             <td>
                 <!--右侧内容-->
@@ -22,7 +22,8 @@ feature_text: |
             </td>
         </tr>
     </table>
-</html>
+</html>   
+
 
 <!-- 邱沛慈 (Pei-Tz Chiu)   
 MBA Student   
