@@ -5,10 +5,10 @@ feature_text: |
  ## Yvette's Website
 ---
 
-邱沛慈 (Pei-Tz Chiu)
-MBA Student
-Graduate Institute of Information Management
-National Taipei University
+邱沛慈 (Pei-Tz Chiu)   
+MBA Student   
+Graduate Institute of Information Management   
+National Taipei University   
 New Taipei City, Taiwan   
 
 <!-- ![](https://i.imgur.com/IvOarY8.png) -->
