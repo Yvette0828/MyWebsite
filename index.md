@@ -16,8 +16,9 @@ feature_text: |
 
 
 [Education](#education) | [Experience](#experience) | [Certifications](#certifications)   
+[Skills](#skills) | [Publications](#publications) | [Projects](#projects)
 | :-------------------: |:-------------------------:| :---------------:|
-[**Skills**](#skills) | [**Publications**](#publications) | [**Projects**](#projects)
+
 
 ---
 
