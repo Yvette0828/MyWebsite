@@ -7,7 +7,7 @@ feature_text: |
 
 <!-- ![](https://i.imgur.com/IvOarY8.png) -->
 <img src="https://i.imgur.com/IvOarY8.png" width="25" height="25">
-Email: [](mailto:y19990828@gmail.com)   
+Email: [y19990828@gmail.com](mailto:y19990828@gmail.com)   
 
 <!-- ![](https://i.imgur.com/kDsgxkS.png) -->
 <img src="https://i.imgur.com/kDsgxkS.png" width="27" height="27">
