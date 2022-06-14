@@ -1,11 +1,11 @@
 ---
-title: Home
+<!-- title: Home -->
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  Yvette's Website
+ ## Yvette's Website
 ---
 
-<font size=10>**Education**</font>    
+##Education    
 
 **National Taipei University**   
 Master of Business Administration - MBA, Graduate Institute of Information Management   
