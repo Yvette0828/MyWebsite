@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'Home'
-description: "Yvette's Website"
+title: "Pei-Tz Chiu"
+description: "My Website"
 permalink: pretty
 # logo: "https://"
 
@@ -34,7 +34,7 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: English
   url: /
 - title: Chinese
   url: /chinese/
