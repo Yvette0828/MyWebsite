@@ -8,7 +8,7 @@ feature_text: |
 <!-- ### Table of contents
 >   1. [Education](#education)
 >   2. [Experience](#experience)
->   3. [Certifications](#licenses&certifications)
+>   3. [Certifications](#certifications)
 >   4. [Skills](#skills)
 >   5. [Publications](#publications)
 >   6. [Projects](#projects) -->
@@ -42,7 +42,7 @@ Jul 2020 - Aug 2020
 Banqiao District, New Taipei City, Taiwan   
 Intern at Food and Drug Administration, Department of Health, New Taipei City Government   
 
-### Certifications <a name="licenses&certifications"></a>   
+### Certifications <a name="certifications"></a>   
 **Amazon Web Services Cloud Practitioner**   
 Issued Feb 2022 · Expires Feb 2025   
 
