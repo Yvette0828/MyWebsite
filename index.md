@@ -37,7 +37,7 @@ Intern at Food and Drug Administration, Department of Health, New Taipei City Go
 Issued Feb 2022 · Expires Feb 2025   
 
 ### Skills   
-Cloud Computing
+Cloud Computing  
 Amazon Web Services (AWS)    
 Machine Learning    
 Natural Language Processing (NLP)   
