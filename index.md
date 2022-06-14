@@ -5,7 +5,7 @@ feature_text: |
  ## Yvette's Website
 ---
 
-### > Table of contents
+> ### Table of contents
 > 1. [Education](#education)
 > 2. [Experience](#experience)
 > 3. [Licenses & Certifications](#license&certifications)
