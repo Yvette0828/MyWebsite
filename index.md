@@ -5,15 +5,15 @@ feature_text: |
  ## Yvette's Website
 ---
 
-
-### Table of contents
+<!-- ### Table of contents
 >   1. [Education](#education)
 >   2. [Experience](#experience)
 >   3. [Licenses & Certifications](#licenses&certifications)
 >   4. [Skills](#skills)
 >   5. [Publications](#publications)
->   6. [Projects](#projects)
+>   6. [Projects](#projects) -->
 
+[Education](#education) | [Experience](#experience) | [Licenses & Certifications](#licenses&certifications) | [Skills](#skills) | [Publications](#publications) | [Projects](#projects)
 
 ### Education <a name="education"></a>    
 **National Taipei University**   
