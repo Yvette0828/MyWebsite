@@ -5,11 +5,30 @@ feature_text: |
  ## Yvette's Website
 ---
 
-邱沛慈 (Pei-Tz Chiu)   
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
+                左侧
+            </td>
+            <td>
+                <!--右侧内容-->
+                邱沛慈 (Pei-Tz Chiu)   
+                MBA Student   
+                Graduate Institute of Information Management   
+                National Taipei University   
+                New Taipei City, Taiwan   
+            </td>
+        </tr>
+    </table>
+</html>
+
+<!-- 邱沛慈 (Pei-Tz Chiu)   
 MBA Student   
 Graduate Institute of Information Management   
 National Taipei University   
-New Taipei City, Taiwan   
+New Taipei City, Taiwan    -->
 
 <!-- ![](https://i.imgur.com/IvOarY8.png) -->
 <img src="https://i.imgur.com/IvOarY8.png" width="25" height="25">
