@@ -31,7 +31,7 @@ Graduate Institute of Information Management
 National Taipei University   
 New Taipei City, Taiwan    -->
     
-
+<br>
 <img src="https://i.imgur.com/IvOarY8.png" width="25" height="25">
 Email: [y19990828@gmail.com](mailto:y19990828@gmail.com)   
 
