@@ -4,7 +4,8 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
  ## Yvette's Website
 ---
-<blockquote>
+
+`
 ### Table of contents
 1. [Education](#education)
 2. [Experience](#experience)
@@ -12,7 +13,7 @@ feature_text: |
 4. [Skills](#skills)
 5. [Publications](#publications)
 6. [Projects](#projects)
-</blockquote>
+`
 
 ### Education <a name="education"></a>    
 **National Taipei University**   
