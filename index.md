@@ -33,7 +33,7 @@ Banqiao District, New Taipei City, Taiwan
 Intern at Food and Drug Administration, Department of Health, New Taipei City Government   
 
 ### Licenses & Certifications   
-Amazon Web Services Cloud Practitioner   
+**Amazon Web Services Cloud Practitioner**   
 Issued Feb 2022 · Expires Feb 2025   
 
 ### Skills   
