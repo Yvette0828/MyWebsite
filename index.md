@@ -13,7 +13,7 @@ feature_text: |
 >   5. [Publications](#publications)
 >   6. [Projects](#projects) -->
 
-[Education](#education) | [Experience](#experience) | [Licenses & Certifications](#licenses&certifications) | [Skills](#skills) | [Publications](#publications) | [Projects](#projects)
+[Education](#education) "|" [Experience](#experience) | [Licenses & Certifications](#licenses&certifications) | [Skills](#skills) | [Publications](#publications) | [Projects](#projects)
 
 ### Education <a name="education"></a>    
 **National Taipei University**   
