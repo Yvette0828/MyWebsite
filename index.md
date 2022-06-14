@@ -6,15 +6,16 @@ feature_text: |
 ---
 <!-- https://picsum.photos/1300/400?image=989 -->
 
-### Table of contents
+<!-- ### Table of contents
 >   1. [Education](#education)
 >   2. [Experience](#experience)
 >   3. [Certifications](#certifications)
 >   4. [Skills](#skills)
 >   5. [Publications](#publications)
->   6. [Projects](#projects)
+>   6. [Projects](#projects) -->
 
-<!-- [Education](#education) || [Experience](#experience) || [Certifications](#certifications) || [Skills](#skills) || [Publications](#publications) || [Projects](#projects) -->
+[Education](#education) || [Experience](#experience) || [Certifications](#certifications)   
+[Skills](#skills) || [Publications](#publications) || [Projects](#projects)
 
 ### Education <a name="education"></a>    
 **National Taipei University**   
