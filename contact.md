@@ -16,7 +16,7 @@ feature_text: |
             </td>
             <td>
                 <!--右侧内容-->
-                <br>邱沛慈 (Pei-Tz Chiu)   
+             邱沛慈 (Pei-Tz Chiu)   
              <br>MBA Student
              <br>Graduate Institute of Information Management
              <br>National Taipei University
