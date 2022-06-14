@@ -15,8 +15,8 @@ feature_text: |
 >   6. [Projects](#projects) -->
 
 
-[Education](#education) | <br>[Experience](#experience) | [Certifications](#certifications)   
-<br>[Skills](#skills) | [Publications](#publications) | <br>[Projects](#projects)
+[Education](#education) | [Experience](#experience) | [Certifications](#certifications)   
+[Skills](#skills) | [Publications](#publications) | [Projects](#projects)
 
 
 ---
