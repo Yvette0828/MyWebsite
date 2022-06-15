@@ -45,7 +45,7 @@ GitHub: <a href="https://github.com/Yvette0828" target="_blank">Yvette0828</a>
 
 {% include site-form.html %}   
 
-#### Map of National Taipei University
+<br>
 
 <!-- {% include map.html id="1TDsvauiM-_EXUg4B-oMeXIctedfRpvM" title="National Taipei University" %} -->
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1TDsvauiM-_EXUg4B-oMeXIctedfRpvM&ehbc=2E312F&hl=en" width="640" height="480"></iframe>
