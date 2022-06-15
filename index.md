@@ -74,9 +74,7 @@ NTCIR 16 Conference · Jun 14, 2022
 <a href="" target="_blank">[Poster]</a>
 
 <html>
-<head>
- <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
-</head>
+
 <body>
 <!-- Abstract Button (Modal) -->
 <button class="button" data-toggle="modal" data-target="#myModal">
