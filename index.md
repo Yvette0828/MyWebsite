@@ -4,7 +4,7 @@ feature_text: |
  ## Yvette's Website
  English Version of My Cover.
 feature_image: "https://images.unsplash.com/photo-1608322368442-2db3b4090724?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1040&q=80"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "English Version of My Cover"
 aside: true
 ---
 
