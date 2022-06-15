@@ -72,21 +72,18 @@ NTCIR 16 Conference · Jun 14, 2022
 <!-- [[Pdf]](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/08-NTCIR16-FINNUM-TengY.pdf)[[Poster]]() -->
 <a href="https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/08-NTCIR16-FINNUM-TengY.pdf" target="_blank">[Pdf]</a>
 <a href="" target="_blank">[Poster]</a>
-<!-- <p><a class="button" href="#example-modal">[Abstract]</a></p>
-<div id="example-modal" class="modal">
-</div> -->
 
 <html>
 <head>
 	<meta charset="utf-8"> 
-	<title>Bootstrap 实例 - 模态框（Modal）插件</title>
+	<title>Abstract Button</title>
 	<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
 	<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
 	<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
 <!-- 按钮触发模态框 -->
-<button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+<button class="button" data-toggle="modal" data-target="#myModal">
 	Abstract
 </button>
 <!-- 模态框（Modal） -->
