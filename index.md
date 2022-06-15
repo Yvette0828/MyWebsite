@@ -73,7 +73,12 @@ NTCIR 16 Conference · Jun 14, 2022
 <a href="https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/08-NTCIR16-FINNUM-TengY.pdf" target="_blank">[Pdf]</a>
 <a href="" target="_blank">[Poster]</a>
 
-
+<head>
+ <title>Abstract Button</title>
+ <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+ <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+ <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
 <!-- Abstract Button (Modal) -->
 <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Abstract</button>
 <!-- 模态框（Modal） -->
