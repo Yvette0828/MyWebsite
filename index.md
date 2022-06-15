@@ -13,11 +13,11 @@ feature_text: |
 >   4. [Skills](#skills)
 >   5. [Publications](#publications)
 >   6. [Projects](#projects) -->
-
-
+<html>
+<blockquote>
 [Education](#education) | [Experience](#experience) | [Certifications](#certifications)   
 [Skills](#skills) | [Publications](#publications) | [Projects](#projects)
-
+</blockquote>
 
 ---
 
