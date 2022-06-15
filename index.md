@@ -7,6 +7,13 @@ excerpt: "English Version of My Curriculum Vitae"
 aside: true
 ---
 
+var myModal = document.getElementById('myModal')
+var myInput = document.getElementById('myInput')
+
+myModal.addEventListener('shown.bs.modal', function () {
+  myInput.focus()
+})
+
 <!-- https://picsum.photos/1300/400?image=989 -->
 
 <!-- ### Table of contents
