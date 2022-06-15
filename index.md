@@ -88,9 +88,9 @@ NTCIR-16 Conference · Jun 14, 2022
   </div>
 </div>
 <script type="text/javascript">
-	var collapseElementList = [].slice.call(document.querySelectorAll('.collapse'))
-	var collapseList = collapseElementList.map(function (collapseEl) {
-	  return new bootstrap.Collapse(collapseEl)
+	var myCollapse = document.getElementById('myCollapse')
+	var bsCollapse = new bootstrap.Collapse(myCollapse, {
+	  toggle: false
 	})
 </script>
 
