@@ -63,8 +63,7 @@ MySQL
 敏捷開發 Scrum
 
 ### 出版 <a name="publications"></a>   
-**IMNTPU at the NTCIR-16 FinNum-3 Task: <a name="FinNum3"></a>   
-Data Augmentation for Financial Numclaim Classification**   
+Yung-Wei Teng, **Pei-Tz Chiu**, Ting-Yun Hsiao, Mike Tian-Jian Jiang, and Min-Yuh Day (2022), "IMNTPU at the NTCIR-16 FinNum-3 Task: Data augmentation for financial Numclaim classification", in Proceedings of the 16th NTCIR Conference on Evaluation of Information Access Technologies (NTCIR-16), Tokyo Japan, June 14-17, 2022. <a name="FinNum3"></a>      
 NTCIR 16 Conference · Jun 14, 2022   
 **Abstract**: This paper provides a detailed description of IMNTPU team at the NTCIR-16 FinNum-3 shared task in formal financial documents. We proposed the use of the XLM-RoBERTa-based model with two different approaches on data augmentation to perform the binary classification task in FinNum-3. The first run (i.e., IMNTPU-1) is our baseline through the fine-tuning of the XLM-RoBERTa without data augmentation. However, we assume that presenting different data augmentations may improve the task performance because of the imbalance in the dataset. Accordingly, we presented double redaction and translation methods on data augmentation in the second (IMNTPU-2) and third (IMNTPU-3) runs, respectively. The best macro-F1 scores obtained by our team in the Chinese and English datasets are 93.18% and 89.86%, respectively. The major contribution of this study provides a new understanding of data augmentation approach for the imbalanced dataset, which may help reduce the imbalanced situation in the Chinese and English datasets.   
 <img src="https://user-images.githubusercontent.com/82231499/173595390-937d8a24-0c1a-4865-a78b-171547e8ea7f.png" width="15" height="15"> 
