@@ -12,6 +12,11 @@
   {% assign thanks_url = "/thanks/" %}
 {% endif %}
 
+<form
+  action="https://formspree.io/f/mnqwrrbq"
+  method="POST"
+>
+
 <form class="form  form--{{ name_id }}" method="post" name="{{ name }}" action="{{ thanks_url }}"
   {% if include.netlify_form %}
     netlify-honeypot="bot-field"
