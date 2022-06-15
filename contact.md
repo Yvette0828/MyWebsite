@@ -45,22 +45,5 @@ GitHub: <a href="https://github.com/Yvette0828" target="_blank">Yvette0828</a>
 
 {% include site-form.html %}
 
-<form
-  action="https://formspree.io/f/mnqwrrbq"
-  method="POST"
->
-  <label>
-    Email:
-    <input type="email" name="email">
-    <textarea name="Your email"></textarea>
-  </label>
-  <label>
-    Message:
-    <textarea name="Your message..."></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
-
 <!-- {% include map.html id="1TDsvauiM-_EXUg4B-oMeXIctedfRpvM" title="National Taipei University" %} -->
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1TDsvauiM-_EXUg4B-oMeXIctedfRpvM&ehbc=2E312F&hl=en" width="640" height="480"></iframe>
