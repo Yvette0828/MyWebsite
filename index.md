@@ -8,10 +8,6 @@ aside: true
 ---
 
 
-myModal.addEventListener('shown.bs.modal', function () {
-  myInput.focus()
-})
-
 <!-- https://picsum.photos/1300/400?image=989 -->
 
 <!-- ### Table of contents
