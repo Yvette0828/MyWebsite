@@ -88,9 +88,9 @@ NTCIR-16 Conference · Jun 14, 2022
   </div>
 </div>
 <script type="text/javascript">
-	var myCollapse = document.getElementById('myCollapse')
-	var bsCollapse = new bootstrap.Collapse(myCollapse, {
-	  toggle: false
+	var myCollapsible = document.getElementById('myCollapsible')
+	myCollapsible.addEventListener('hidden.bs.collapse', function () {
+	  // do something...
 	})
 </script>
 
