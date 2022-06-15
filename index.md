@@ -81,7 +81,7 @@ NTCIR-16 Conference · Jun 14, 2022
 	<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
 	<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-
+<body>
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
   Abstract
@@ -103,7 +103,7 @@ NTCIR-16 Conference · Jun 14, 2022
     </div>
   </div>
 </div>
-
+</body>
 
 ### Projects <a name="projects"></a>   
 **Contest | NTCIR16 FinNum3**   
