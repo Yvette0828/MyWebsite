@@ -6,15 +6,6 @@ feature_text: |
 ---
 <!-- https://picsum.photos/1300/400?image=989 -->
 
-<script>
-import './my-component.js';  
-
-var collapseElementList = [].slice.call(document.querySelectorAll('.collapse'))
-var collapseList = collapseElementList.map(function (collapseEl) {
-  return new bootstrap.Collapse(collapseEl)
-})
-</script>
-
 <!-- ### Table of contents
 >   1. [Education](#education)
 >   2. [Experience](#experience)
@@ -95,6 +86,7 @@ NTCIR 16 Conference · Jun 14, 2022
   </div>
 </div>
 
+{% include button.html text="Abstract" link="https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/08-NTCIR16-FINNUM-TengY.pdf" %}
 
 ### Projects <a name="projects"></a>   
 **Contest | NTCIR16 FinNum3**   
