@@ -36,7 +36,7 @@ plugins:
 url: 'https://mydomain.com'
 baseurl: ''
 title: "Pei-Tz Chiu"
-description: "This is a personal website about Pei-Tz Chiu, a MBA student at National Taipei University in Taiwan. Click buttons below for getting more information about me."
+description: 'This is a personal website about Pei-Tz Chiu, a MBA student at National Taipei University in Taiwan. Click buttons below or "Contact" tab for getting more information about me.'
 permalink: pretty
 # logo: "https://www.flaticon.com/svg/vstatic/svg/3917/3917327.svg?token=exp=1655219771~hmac=bc6ecae2b7dfd77e7ed4bf633d71d16e"
 email: "y19990828@gmail.com"
