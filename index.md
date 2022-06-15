@@ -85,7 +85,7 @@ NTCIR-16 Conference · Jun 14, 2022
 <body>
 
 <!-- Modal Triggar Button -->
-<button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+<button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal" data-show=false>
 	Abstract
 </button>
 <!-- Modal -->
