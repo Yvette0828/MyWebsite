@@ -43,7 +43,8 @@ LinkedIn: <a href="https://www.linkedin.com/in/%E6%B2%9B%E6%85%88-%E9%82%B1-14ba
 <img src="https://i.imgur.com/FvDYD7e.png" width="25" height="25">
 GitHub: <a href="https://github.com/Yvette0828" target="_blank">Yvette0828</a>   
 
-<h4>Contact Form</h4>
+<h6>Contact Form</h6>
+<br>
 {% include site-form.html %}   
 
 <br>
