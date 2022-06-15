@@ -72,6 +72,7 @@ NTCIR 16 Conference · Jun 14, 2022
 <!-- [[Pdf]](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/08-NTCIR16-FINNUM-TengY.pdf)[[Poster]]() -->
 <a href="https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/08-NTCIR16-FINNUM-TengY.pdf" target="_blank">[Pdf]</a>
 <a href="" target="_blank">[Poster]</a>
+
 <html>
 <head>
  <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
