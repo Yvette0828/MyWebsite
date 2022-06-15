@@ -106,9 +106,7 @@ NTCIR-16 Conference · Jun 14, 2022
 	})}); -->
 <!-- 	$(function () { $('#collapseTwo').collapse('show')});
 	$(function () { $('#collapseThree').collapse('toggle')}); -->
-	$(function () { $('#collapseOne').collapse({
-		toggle: false
-	})});;
+	$(function () { $('#collapseOne').collapse('show')});
 </script>  
 </body>
 </html>
