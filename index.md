@@ -6,6 +6,14 @@ feature_text: |
 ---
 <!-- https://picsum.photos/1300/400?image=989 -->
 
+​```js script
+import './my-component.js';  
+​```
+
+# This is my component  
+<my-component></my-component>
+
+
 <!-- ### Table of contents
 >   1. [Education](#education)
 >   2. [Experience](#experience)
