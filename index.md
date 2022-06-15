@@ -7,14 +7,12 @@ feature_text: |
 <!-- https://picsum.photos/1300/400?image=989 -->
 
 <script>
-​````
 import './my-component.js';  
 
 var collapseElementList = [].slice.call(document.querySelectorAll('.collapse'))
 var collapseList = collapseElementList.map(function (collapseEl) {
   return new bootstrap.Collapse(collapseEl)
 })
-````
 </script>
 
 <!-- ### Table of contents
