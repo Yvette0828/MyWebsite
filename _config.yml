@@ -51,6 +51,8 @@ navigation_header:
   url: /
 - title: Chinese
   url: /chinese/
+- title: Search
+  url: /search/
 - title: Contact
   url: /contact/
 # - title: Blog
