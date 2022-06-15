@@ -74,7 +74,6 @@ NTCIR 16 Conference · Jun 14, 2022
 <a href="" target="_blank">[Poster]</a>
 <html>
 <head>
- <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
  <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
