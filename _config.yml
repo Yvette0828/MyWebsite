@@ -36,11 +36,7 @@ plugins:
 url: 'https://mydomain.com'
 baseurl: ''
 title: "Pei-Tz Chiu"
-description: "Pei-Tz Chiu 
-MBA Student 
-Graduate Institute of Information Management  
-National Taipei University  
-New Taipei City, Taiwan"
+description: "My Website"
 permalink: pretty
 # logo: "https://www.flaticon.com/svg/vstatic/svg/3917/3917327.svg?token=exp=1655219771~hmac=bc6ecae2b7dfd77e7ed4bf633d71d16e"
 email: "y19990828@gmail.com"
