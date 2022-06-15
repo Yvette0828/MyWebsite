@@ -6,13 +6,16 @@ feature_text: |
 ---
 <!-- https://picsum.photos/1300/400?image=989 -->
 
-js script
+<script>
+​````
 import './my-component.js';  
 
-
-# This is my component  
-<my-component></my-component>
-
+var collapseElementList = [].slice.call(document.querySelectorAll('.collapse'))
+var collapseList = collapseElementList.map(function (collapseEl) {
+  return new bootstrap.Collapse(collapseEl)
+})
+````
+</script>
 
 <!-- ### Table of contents
 >   1. [Education](#education)
