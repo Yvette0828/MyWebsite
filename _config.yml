@@ -76,7 +76,7 @@ collections:
   posts:
     title: Posts
     output: true
-#     description: "My thoughts and ideas"
+    description: "This page incorporates all my posts which are shown below."
     feature_text: |
       Welcome to my world
     feature_image: "https://images.unsplash.com/photo-1487029752779-a0c17b1f5ec9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
