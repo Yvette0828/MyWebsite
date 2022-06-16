@@ -1,5 +1,7 @@
 ---
 title: Contact
+categories:
+- Contact Info
 feature_image: "https://images.unsplash.com/photo-1495839760557-d150d64b4469?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
 
 feature_text: |
