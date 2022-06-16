@@ -42,7 +42,7 @@ permalink: pretty
 email: "y19990828@gmail.com"
 
 # Pagination
-paginate: 5
+paginate: 3
 paginate_path: blog/page:num
 
 # Header nav
