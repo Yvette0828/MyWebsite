@@ -1,8 +1,9 @@
 ---
 title: Hello World
 categories:
-- General
-feature_image: "https://picsum.photos/2560/600?image=872"
+- Projects
+feature_image: "https://images.unsplash.com/photo-1605207342518-2617c7a9bf4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
 ---
 
-This is my very first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
+This is a page about "CAMLKG: Knowledge Graph of Cryptocurrency Anti-Money Laundering with Few-Shot Learning Model from Judicial Data in FinTech".
+
