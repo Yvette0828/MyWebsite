@@ -35,6 +35,7 @@ Sep 2017 - Jun 2021
 DeepWave · 實習生   
 Jul 2022 - Present   
 台灣 台北市大安區   
+優化 AI 演算模型及建立聲音資料庫  
 公司網站：[https://dwave.cc/](https://dwave.cc/) 
 
 **研究助理**   
