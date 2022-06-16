@@ -6,6 +6,7 @@ feature_image: "https://images.unsplash.com/photo-1495839760557-d150d64b4469?ixl
 
 feature_text: |
  ## Yvette's Website
+excerpt: "This page contains my contact information, you can also write to me directly via the contact form."
 ---
 <!-- https://picsum.photos/1300/400?image=989 -->
 
