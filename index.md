@@ -37,6 +37,7 @@ Sep 2017 - Jun 2021
 DeepWave · Internship   
 Jul 2022 - Present   
 Da'an District, Taipei City, Taiwan   
+Optimize AI algorithm model and build the speech corpus.   
 Company Website：[https://dwave.cc/](https://dwave.cc/) 
 
 **Graduate Research Assistant**   
