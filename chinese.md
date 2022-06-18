@@ -81,8 +81,8 @@ Dec 2021 - Jun 2022
 此競賽針對專業財務文件 (法說會或財務分析書) 中的數字進行細粒度分析，並利用二元分類細分出句子中的數字是否為專家對於專業財務文件分析出的數字，並用 Macro F1-score 來評估模型績效。並於中文及英文資料集分別得到第一 (93.18%) 及第三名 (89.86%)。此外，亦於 NTCIR-16 Conference 發表了研討會論文，題目為：[IMNTPU at the NTCIR-16 FinNum-3 Task: Data Augmentation for Financial Numclaim Classification](#FinNum3).
 
 ### 獎項 <a name="honors"></a>    
-**第一名, 2022 年日本 NTCIR-16 FinNum-3 投資者與管理者的細粒度聲明檢測 中文分析報告分項**    
-
+**第一名**, 2022 年日本 <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnum3/" target="_blank">NTCIR-16 FinNum-3 投資者與管理者的細粒度聲明檢測</a> 中文分析報告分項    
+    
 **海報展示獎, 2022 年日本 NTCIR-16 FinNum-3**    
-
+    
 **口頭報告獎, 2022 年日本 NTCIR-16 FinNum-3**     
