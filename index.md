@@ -89,6 +89,8 @@ This competition conducts a fine-grained analysis of numbers in professional fin
 
 
 ### Projects <a name="honors"></a>    
+**The first place in Analysis Report Chinese subtask of the NTCIR-16 FinNum-3 Investor’s and Manager’s Fine-grained Claim Detection Task, 2022**    
+
 **Poster Presentation Award, NTCIR-16 FinNum-3**  
 Issued by The 16th NTCIR Conference, NII (National Institute of Informatics) · Jun 2022   
 Poster of "[IMNTPU at the NTCIR-16 FinNum-3 Task: Data Augmentation for Financial Numclaim Classification](#FinNum3)".    
