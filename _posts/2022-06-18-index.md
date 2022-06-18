@@ -88,7 +88,7 @@ Dec 2021 - Jun 2022
 This competition conducts a fine-grained analysis of numbers in professional financial documents (law-speaking conferences or financial analysis books), and uses binary classification to subdivide whether the numbers in the sentence are numbers analyzed by experts for professional financial documents, and use Macro F1-score to evaluate model performance. We won first (93.18%) and third (89.86%) in Chinese and English datasets respectively. In addition, a conference paper was published at the NTCIR-16 Conference entitled "[IMNTPU at the NTCIR-16 FinNum-3 Task: Data Augmentation for Financial Numclaim Classification](#FinNum3)".    
 
 
-### Projects <a name="honors"></a>    
+### Honors <a name="honors"></a>    
 **The first place** in Analysis Report Chinese subtask of the <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnum3/" target="_blank">NTCIR-16 FinNum-3 Investor’s and Manager’s Fine-grained Claim Detection Task</a>, 2022    
 
 **Poster Presentation Award, NTCIR-16 FinNum-3**  
