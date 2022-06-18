@@ -21,7 +21,7 @@ aside: true
 >   6. [Projects](#projects) -->
 
 [Education](#education) | [Experience](#experience) | [Certifications](#certifications)   
-[Skills](#skills) | [Publications](#publications) | [Projects](#projects)
+[Skills](#skills) | [Publications](#publications) | [Projects](#projects) | [Honors](#honors)
 
 ---
 
@@ -85,4 +85,15 @@ NTCIR-16 Conference · Jun 14, 2022
 ### Projects <a name="projects"></a>   
 **Contest | NTCIR16 FinNum3**   
 Dec 2021 - Jun 2022   
-This competition conducts a fine-grained analysis of numbers in professional financial documents (law-speaking conferences or financial analysis books), and uses binary classification to subdivide whether the numbers in the sentence are numbers analyzed by experts for professional financial documents, and use Macro F1-score to evaluate model performance. We won first (93.18%) and third (89.86%) in Chinese and English datasets respectively. In addition, a conference paper was published at the NTCIR-16 Conference entitled "[IMNTPU at the NTCIR-16 FinNum-3 Task: Data Augmentation for Financial Numclaim Classification](#FinNum3)".
+This competition conducts a fine-grained analysis of numbers in professional financial documents (law-speaking conferences or financial analysis books), and uses binary classification to subdivide whether the numbers in the sentence are numbers analyzed by experts for professional financial documents, and use Macro F1-score to evaluate model performance. We won first (93.18%) and third (89.86%) in Chinese and English datasets respectively. In addition, a conference paper was published at the NTCIR-16 Conference entitled "[IMNTPU at the NTCIR-16 FinNum-3 Task: Data Augmentation for Financial Numclaim Classification](#FinNum3)".    
+
+
+### Projects <a name="honors"></a>    
+**Poster Presentation Award, NTCIR-16 FinNum-3**  
+Issued by The 16th NTCIR Conference, NII (National Institute of Informatics) · Jun 2022   
+Poster of "[IMNTPU at the NTCIR-16 FinNum-3 Task: Data Augmentation for Financial Numclaim Classification](#FinNum3)".    
+
+
+**Oral Presentation Award, NTCIR-16 FinNum-3**   
+Issued by The 16th NTCIR Conference, NII (National Institute of Informatics) · Jun 2022    
+Oral Presentation of "[IMNTPU at the NTCIR-16 FinNum-3 Task: Data Augmentation for Financial Numclaim Classification](#FinNum3)".
